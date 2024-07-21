@@ -12,3 +12,7 @@ Shopping Cart Page: Displays the products added to the cart and allows users to 
 Login/Register Page: Enables users to create an account or log in to the eCommerce website.
 
 # SCREENSHOTS
+![Screenshot (1)](https://github.com/user-attachments/assets/7871718e-3a7a-4d55-882c-0fce63f3b22f)
+![Screenshot (2)](https://github.com/user-attachments/assets/a0574dc0-494f-41eb-8734-2aa48133c639)
+![Screenshot (3)](https://github.com/user-attachments/assets/5bdbcb12-a5c3-42a3-b995-c1766c1e52bc)
+![Screenshot (4)](https://github.com/user-attachments/assets/6c236d19-2d47-48a1-b12e-9adc34389bdf)
