@@ -10,3 +10,5 @@ Single Product Page: Detailed product page with product image gallery, pricing, 
 Shopping Cart Page: Displays the products added to the cart and allows users to review and manage their cart.
 
 Login/Register Page: Enables users to create an account or log in to the eCommerce website.
+
+# SCREENSHOTS
